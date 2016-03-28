@@ -10,6 +10,7 @@ namespace Testegit
     {
         static void Main(string[] args)
         {
+            // teste de configuração do github com o visual studio fsfsafsafasfsafsafasfas
         }
     }
 }
